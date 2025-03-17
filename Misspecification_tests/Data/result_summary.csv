@@ -1,0 +1,7 @@
+Scenario,Ground_truth,Observed_trips,Overlap_trip,Inferred_trips,,ratio_inferred,ratio_recovered,overlap_percent,missing_percent,-0.149950506
+scenario2(-0.08)_noPredictor,15995,849,4,14273.54,,0.892375117,0.886342269,0.000250078,0.946920913,2.389130978
+scenario2(-0.02)_noPredictor,15995,847,2,16602.38,,1.037973117,1.040096382,0.000125039,0.947045952,
+scenario2(-0.02)_density_negNumDensityCor,13941,525,1,14751.6,,1.05814504,1.060420394,7.17E-05,0.962341295,
+scenario2(-0.08)_density_negNumDensityCor,13941,525,1,12588.68,,0.902996916,0.899200954,7.17E-05,0.962341295,
+scenario3(-0.08)_density_negNumDensityCor,13941,525,1,6377.409,,0.457457069,0.436226073,7.17E-05,0.962341295,
+scenario3(-0.02)_density_negNumDensityCor,13941,525,1,2251.817,,0.161524783,0.128713253,7.17E-05,0.962341295,
